@@ -1,0 +1,19 @@
+.textStyle {
+    background-color: #222;
+    color: royalblue;
+    font-size: 2em;
+}
+
+.title-name {
+    color: aliceblue;
+    background-color: thistle;
+    font-size: 1.5em;
+}
+.App {
+    text-align: center;
+}
+.welcome-text {
+    color: rgb(55, 0, 117);
+    font-size: 1.8em;
+    font-style: italic;
+}
